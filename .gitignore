@@ -1,0 +1,13 @@
+*inlite*
+.gitattributes
+ReadMe_wabr*
+*_iisnode.*
+*.map
+*.dat
+*.njsproj
+*.logs/*
+web.config
+*.json
+Scripts/*
+bin/*
+obj/*
